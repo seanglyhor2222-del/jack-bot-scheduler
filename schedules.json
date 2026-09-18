@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1789703718869",
+    "botId": "1789700506550",
+    "type": "weekly",
+    "time": "10:56",
+    "message": "sdgsdfghd",
+    "weekdays": [
+      "5"
+    ],
+    "cronExpr": "56 10 * * 5",
+    "description": "រៀងរាល់សប្តាហ៍ (ថ្ងៃ 5) ម៉ោង 10:56"
+  },
+  {
+    "id": "1789703741981",
+    "botId": "1789700506550",
+    "type": "weekly",
+    "time": "10:57",
+    "message": "dfhgntrgdstgf",
+    "weekdays": [
+      "5"
+    ],
+    "cronExpr": "57 10 * * 5",
+    "description": "រៀងរាល់សប្តាហ៍ (ថ្ងៃ 5) ម៉ោង 10:57"
+  }
+]
